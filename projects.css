@@ -1,0 +1,24 @@
+
+	.pika-thumbs {
+		height: 85px;
+	}
+	.pika-stage {
+		margin: 10px auto;
+	}
+	.jcarousel-skin-pika {
+		margin: 0 auto;
+		width: 535px;
+	}
+	.jcarousel-skin-pika .jcarousel-clip-horizontal {
+		overflow: hidden;
+		width: 495px;
+	}
+	.bluebox.inline
+	{
+		display: inline-block;
+	}
+	#content 
+	{
+		text-align: center;
+	}
+	

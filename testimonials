@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link href="styles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="redbar">
+</div>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+		</div>
+		<div id="nav">
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="About-us.html">About us</a></li>
+				<li><a href="Services.html">Services</a></li>
+				<li><a href="Contact-us.html">Contact us</a></li>
+			</ul>
+		</div>	
+	</div>
+	<div class="bluebox small">
+		<h1>Welcome to Allbryte</h1>
+		<p> We understand this is your home and our desire is to make your home what you deserve.</p>
+	</div>
+	<div id="content">
+		<div class="col">
+			<h1>Services</h1>
+			<p>Building Works</p>
+		</div>
+		<div class="col">
+			<h1>Testimonials</h1>
+			<p>What I can do for you</p>
+		</div>
+		<div class="col">
+			<h1>Projects</h1>
+			<p>Photos from the office</p>	
+		</div>
+		<div class="clearfix">
+		</div>
+		<div id="social">Twitter Facebook</div>
+		</div>
+	<div class="clearfix"></div>
+</div>
+<div id="footer">&copy;Allbryte all rights reserved 2013
+</div>
+</body>
+</html>
